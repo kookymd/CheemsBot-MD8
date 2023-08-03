@@ -204,7 +204,7 @@ ppgroup = 'https://i.ibb.co/RBx5SQC/avatar-group-large-v2.png?q=60'
 			} 
 			
 
-    // respon cmd pollMessage
+// respon cmd pollMessage
     async function getMessage(key){
         if (store) {
             const msg = await store.loadMessage(key.remoteJid, key.id)
