@@ -202,7 +202,7 @@ ppgroup = 'https://i.ibb.co/RBx5SQC/avatar-group-large-v2.png?q=60'
 					text: `「 Group Settings Change 」\n\n*Group name has been changed to*\n\n*${res.subject}*`,
 				});
 			} 
-			// respon cmd pollMessage
+	// respon cmd pollMessage
     async function getMessage(key){
         if (store) {
             const msg = await store.loadMessage(key.remoteJid, key.id)
