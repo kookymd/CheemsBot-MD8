@@ -23,15 +23,15 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.owner = ['254112541130'] //ur owner number
 global.ownernomer = "254112541130" //ur owner number2
-global.ownername = "🏅Kooky Nova MD" //ur owner name
+global.ownername = "🏅KOOKY" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: Kookymd" //ur github or insta name
 global.location = "Africa, Kenya, Nairobi" //ur location
 
 //new
-global.botname = "Kooky Bot MD V8"
+global.botname = "NOVA MD V8"
 global.ownernumber = '254112541130'
-global.ownername = '🏅Nova Kooky'
+global.ownername = '🏅KOOKY'
 global.ownerNumber = ["254112541130@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
