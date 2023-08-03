@@ -203,14 +203,6 @@ ppgroup = 'https://i.ibb.co/RBx5SQC/avatar-group-large-v2.png?q=60'
 				});
 			} 
 			
-		});
-		
-}
-}
-} catch (err) {
-console.log(err)
-}
-})
 
     // respon cmd pollMessage
     async function getMessage(key){
